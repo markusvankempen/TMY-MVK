@@ -7,7 +7,7 @@ We added a sample file called simdrone.js which sends drone
 example data to the WIoTP. Feel free to adjust the code if you have a real ar-drone.
 
 You can find the video (part2) [here](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
-node.js app code [here](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
+node.js app code [here](https://github.com/markusvankempen/TMY-MVK/blob/master/dronecontroller/simdrone.js) 
 
 Node-RED Flows
 - Setup and testing flow [Tab1](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
