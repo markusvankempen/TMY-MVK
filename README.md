@@ -10,11 +10,9 @@ You can find the video (part2) [here](https://www.youtube.com/watch?v=mM-qSJTGxH
 node.js app code [here](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
 
 Node-RED Flows
-1. Setup and testing flow [Tab1](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
-
-2. DroneDashboard and Controller flow [Tab2](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
-
-3 CarDashbard and WebSocket Drone Integration flow [Tab3](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
+- Setup and testing flow [Tab1](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
+- DroneDashboard and Controller flow [Tab2](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
+- CarDashbard and WebSocket Drone Integration flow [Tab3](https://www.youtube.com/watch?v=mM-qSJTGxHw) 
  
 Please note that we added the [node-red-contrib-ui] https://www.npmjs.com/package/node-red-contrib-ui
 to our node-red iot starter kit.
