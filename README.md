@@ -14,7 +14,7 @@ Node-RED Flows
 - DroneDashboard and Controller flow [Tab2](https://github.com/markusvankempen/TMY-MVK/blob/master/node-red-flows/tab2-CarDashAndWebSockets) 
 - CarDashbard and WebSocket Drone Integration flow [Tab3](https://github.com/markusvankempen/TMY-MVK/blob/master/node-red-flows/tab2-DroneDashBboard) 
  
-Please note that we added the [node-red-contrib-ui] https://www.npmjs.com/package/node-red-contrib-ui
+Please note that we added the [node-red-contrib-ui](https://www.npmjs.com/package/node-red-contrib-ui)
 to our node-red iot starter kit.
 
 CarDashboard and Drone integration
@@ -26,6 +26,7 @@ Very detailed setup information about the CarDashboard and node-red you can find
 Drone CarDashBoard [Code](https://github.com/markusvankempen/TMY-MVK/tree/master/WACarDashboard)
 
 Let us know if you have questions.
+
 Cheers
 
 Tanmay and Markus
