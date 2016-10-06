@@ -8,7 +8,7 @@ For more information about Conversation, see the [detailed documentation](http:/
 [See the demo](http://conversation-demo.mybluemix.net/).
 
 ##USE THIS BUTTON
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/markusvankempen/TMY-MVK/WACarDashboard)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/markusvankempen/TMY-MVK/tree/master/WACarDashboard)
 
 
 ## How the app works
