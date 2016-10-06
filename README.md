@@ -20,8 +20,10 @@ to our node-red iot starter kit.
 CarDashboard and Drone integration
 You can find the video (part3)[here](https://www.youtube.com/watch?v=Wf3_DfXaEXA)
 
-CarDashBoard Code:
-Node-RedCode:
+Very detailed setup information about the CarDashboard and node-red you can find in this [recipe]
+(https://developer.ibm.com/recipes/tutorials/connecting-a-iot-device-of-the-watson-conversation-cardashboard-app/)
+
+Drone CarDashBoard [Code](https://github.com/markusvankempen/TMY-MVK/tree/master/WACarDashboard)
 
 Let us know if you have questions.
 Cheers
