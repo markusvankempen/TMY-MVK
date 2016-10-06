@@ -1,0 +1,24 @@
+{
+  "name": "iot-drone",
+  "version": "0.1.0",
+  "description": "This is package for Controlling the Parrot AR Drone with Bluemix",
+  "main": "drone-controller.js",
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "ffmpeg": "^0.0.4",
+    "request": "^2.60.0",
+    "twitter": "*",
+    "ibmiotf" : "^0.2.17",
+    "cloudant" : "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drone",
+    "bluemix"
+  ],
+  "author": "jeffdare",
+  "license": "EPL-1.0"
+}

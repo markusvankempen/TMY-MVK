@@ -1,0 +1,19 @@
+{ "iotconfig" : {
+    "org" : "lns1qm",
+    "id" : "raspberrypi",
+    "type" : "drone",
+    "auth-method" : "token",
+    "auth-token" : "NKqzBTvvx*0Nr3v)LO"
+ },
+"twitConfig" : {
+  "consumer_key": "IGDxmT4axYxIpeSeDr6iKAoKm",
+  "consumer_secret": "zkepLYNmuEOzD93pBUqDEGk4AO2AsGvWgHItCTbPQUPLvV57HG",
+  "access_token_key": "781555455118180352-1VOovdnBX2n5gx2qS7zQRXlgwKovzwJ",
+  "access_token_secret": "jDnwQgLgc1YAzUwOgHPU4DLvjvWkMHL7O5FRcH7gQZ7pA"
+ },
+ "cloudantConfig" : {
+ "username": "493f0b64-0aaf-4d3b-96a1-f4c499e5fe3a-bluemix",
+ "password": "ebadec06fc24fa8fc353ccc1bded9a32413e1fdee917b12c7e20e693af532922",
+  "dbName" : "dronepic"
+ }
+}
